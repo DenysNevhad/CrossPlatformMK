@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
